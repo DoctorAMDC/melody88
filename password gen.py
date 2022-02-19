@@ -1,6 +1,6 @@
 '''
 Random Password Generator using Python
-Author: Ayushi Rawat
+Author: Alex Torres
 '''
 
 #import the necessary modules!
